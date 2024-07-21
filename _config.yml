@@ -15,7 +15,8 @@ description              : &description "personal description"
 url                      : https://andrew-koulogeorge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Andrew-Koulogeorge/Andrew-Koulogeorge.github.io"
-# what does thie repo tag do? linking to the page?
+# what does thie repo tag do? linking to the page? yes! this is where our code is!
+
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
@@ -24,7 +25,7 @@ author:
   avatar           : "Profile_ajk.png"
   name             : "Andrew Koulogeoge"
   pronouns         : # example: "she/her"  
-  bio              : "MSCS @ CMU"
+  bio              : "Masters student in Computer Science @ Carnegie Mellon"
   location         : "Pittsburgh, PA"
   employer         : "harpin AI"
   uri              : # URL
