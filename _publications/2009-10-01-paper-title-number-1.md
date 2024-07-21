@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 1"
+title: "Deciphering Stereotypes in Pre-Trained Language Models"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+excerpt: 'This paper addresses the issue of demographic stereotypes present in Transformer-based pre-trained language models (PLMs) and aims to deepen our understanding of how these biases are encoded in these models. To accomplish this, we introduce an easy-to-use framework for examining the stereotype-encoding behavior of PLMs through a combination of model probing and textual analyses. Our findings reveal that a small subset of attention heads within PLMs are primarily responsible for encoding stereotypes and that stereotypes toward specific minority groups can be identified using attention maps on these attention heads. Leveraging these insights, we propose an attention-head pruning method as a viable approach for debiasing PLMs, without compromising their language modeling capabilities or adversely affecting their performance on downstream tasks.'
+date: 2023-12-06
+venue: 'EMNLP'
+# slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+paperurl: 'http://Andrew-Koulogeorge.github.io/files/EMNLP2023.pdf'
+citation: 'Ma et al., EMNLP 2023'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+This paper addresses the issue of demographic stereotypes present in Transformer-based pre-trained language models (PLMs) and aims to deepen our understanding of how these biases are encoded in these models. To accomplish this, we introduce an easy-to-use framework for examining the stereotype-encoding behavior of PLMs through a combination of model probing and textual analyses. Our findings reveal that a small subset of attention heads within PLMs are primarily responsible for encoding stereotypes and that stereotypes toward specific minority groups can be identified using attention maps on these attention heads. Leveraging these insights, we propose an attention-head pruning method as a viable approach for debiasing PLMs, without compromising their language modeling capabilities or adversely affecting their performance on downstream tasks.
