@@ -5,13 +5,13 @@ main:
 
   - title: "Publications"
     url: /publications/
+  
+  # can come back and add more later !
+  - title: "Academics" 
+    url: /academics/
 
   - title: "Portfolio"
     url: /portfolio/
-  
-  # can come back and add more later !
-  # - title: "Coursework" 
-  #   url: /
         
   # - title: ""The Pivot""
   #   url: /year-archive/
