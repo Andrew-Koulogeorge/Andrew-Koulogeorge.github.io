@@ -8,7 +8,7 @@ main:
   
   # can come back and add more later !
   - title: "Academics" 
-    url: /academics/schoolstuff.md
+    url: /academics/schoolstuff.md/
 
   - title: "Portfolio"
     url: /portfolio/
