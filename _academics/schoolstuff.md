@@ -1,4 +1,7 @@
-# 📚 Academic Learning 
+---
+title: 📚 "Academic Learning"
+collection: academics
+---
 
 ## Carnegie Mellon University (MS in Computer Science)
 
