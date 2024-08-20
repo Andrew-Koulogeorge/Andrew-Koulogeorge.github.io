@@ -1,6 +1,6 @@
 ---
 title: 📚 "Academic Learning"
-collection: academics
+permalink: /academics/schoolstuff/
 ---
 
 ## Carnegie Mellon University (MS in Computer Science)
