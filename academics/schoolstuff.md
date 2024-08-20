@@ -1,5 +1,5 @@
 ---
-title: 📚 "Academic Learning"
+title: 📚 Academic Learning
 permalink: /academics/schoolstuff/
 ---
 
