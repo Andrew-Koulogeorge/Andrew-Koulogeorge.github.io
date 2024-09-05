@@ -11,6 +11,7 @@ permalink: /academics/schoolstuff/
 - 15513: Introduction to Computer Systems
 
 ## Dartmouth College (BA in Math & Computer Science)
+See links for some of the code/proofs I wrote!
 
 **GPA**: 3.98
 
