@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-📚 I am a first year Masters in Computer Science student at Carnegie Mellon University. I am focusing my coursework at Carnegie Mellon on Applied Machine Learning & Machine Learning Systems.
+📚 I am a first year Masters in Computer Science student at Carnegie Mellon University. I am focusing my coursework at Carnegie Mellon on Applied Machine Learning.
 
 💼 This summer, I worked as an Applied Scientist Intern at [harpin AI](https://harpin.ai) where I applied Neural Networks and Text Embedding Models to improve the companies core identity profile similarity model. I was very fortunate to be mentored by [Max De Jong](https://www.linkedin.com/in/maxwelldejong/) and [Wenzhong Zhao](https://www.linkedin.com/in/wenzhong-zhao-780a115/).
 
