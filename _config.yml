@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "MSCS @ Carnegie Mellon"
   location         : "Pittsburgh, PA"
-  employer         : "harpin AI"
+  employer         : #"harpin AI"
   uri              : # URL
   email            : "akouloge@andrew.cmu.edu" 
 
