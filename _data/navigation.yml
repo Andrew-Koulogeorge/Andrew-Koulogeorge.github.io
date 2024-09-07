@@ -11,7 +11,9 @@ main:
     url: /academics/schoolstuff/
 
   - title: "Portfolio"
-    url: /portfolio/
+    url: "https://github.com/Andrew-Koulogeorge"
+  # - title: "Portfolio"
+  #   url: /portfolio/
         
   # - title: ""The Pivot""
   #   url: /year-archive/
