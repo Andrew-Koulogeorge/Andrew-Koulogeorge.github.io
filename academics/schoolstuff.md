@@ -5,13 +5,19 @@ permalink: /academics/schoolstuff/
 
 ## Carnegie Mellon University (MS in Computer Science)
 
+**GPA**: 4.00
+
 **Coursework in Progress**:
-- 10701: Introduction to Machine Learning (PhD)
-- 36700: Probability and Mathematical Statistics 
-- 15513: Introduction to Computer Systems
+- 10725: [Convex Optimization](https://sites.google.com/view/10725-2025s/syllabus?authuser=0) 
+- 15640: [Distributed Systems](https://www.andrew.cmu.edu/course/15-440/)
+- 10718: [Machine Learning in Practice](https://www.cs.cmu.edu/~smithv/10718/) (Audit) 
+
+**Coursework**:
+- 10701: [Introduction to Machine Learning (PhD)](https://www.cs.cmu.edu/~hchai2/courses/10701/#Schedule)
+- 36700: [Probability and Mathematical Statistics](https://www.stat.cmu.edu/~siva/teaching/700/)
+- 15513: [Introduction to Computer Systems](https://www.cs.cmu.edu/~213/schedule.html)
 
 ## Dartmouth College (BA in Math & Computer Science)
-See links for some of the code/proofs I wrote!
 
 **GPA**: 3.98
 
@@ -50,3 +56,6 @@ See links for some of the code/proofs I wrote!
 **Stanford CS234: Reinforcement Learning**
 
 Completed projects from Stanford Reinforcement Learning [CS234](https://web.stanford.edu/class/cs234/) by watching online lectures and reading the free Sutton & Barto textbook. My code and theoretical analysis can be found [here](https://github.com/Andrew-Koulogeorge/CS234-Reinforcement-Learning).
+
+**CMU 10714: Deep Learning Systems**
+ See [here](https://github.com/Andrew-Koulogeorge/Needle). Very useful material to understand for any Deep Learning Researcher or Practioner.
