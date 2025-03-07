@@ -53,9 +53,10 @@ permalink: /academics/schoolstuff/
 
 ## Self Study:
 
+**CMU 10714: Deep Learning Systems**
+
+ See [here](https://github.com/Andrew-Koulogeorge/Needle). Very useful material to understand for any Deep Learning Researcher or Practioner.
+
 **Stanford CS234: Reinforcement Learning**
 
 Completed projects from Stanford Reinforcement Learning [CS234](https://web.stanford.edu/class/cs234/) by watching online lectures and reading the free Sutton & Barto textbook. My code and theoretical analysis can be found [here](https://github.com/Andrew-Koulogeorge/CS234-Reinforcement-Learning).
-
-**CMU 10714: Deep Learning Systems**
- See [here](https://github.com/Andrew-Koulogeorge/Needle). Very useful material to understand for any Deep Learning Researcher or Practioner.
