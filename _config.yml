@@ -8,20 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-<<<<<<< HEAD
 title                    : "Andrew's Page"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
 url                      : https://andrew-koulogeorge.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-=======
-site_theme               : "default"
-title                    : "Your Name / Site Title"
-title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "personal description"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
->>>>>>> c400e0818c44013c25ebd71d50d14f540ab97d92
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Andrew-Koulogeorge/Andrew-Koulogeorge.github.io"
 # what does thie repo tag do? linking to the page? yes! this is where our code is!
