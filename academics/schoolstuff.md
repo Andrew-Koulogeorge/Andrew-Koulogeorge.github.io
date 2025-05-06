@@ -7,12 +7,10 @@ permalink: /academics/schoolstuff/
 
 **GPA**: 4.00
 
-**Coursework in Progress**:
+**Coursework**:
 - 10725: [Convex Optimization](https://sites.google.com/view/10725-2025s/syllabus?authuser=0) 
 - 15640: [Distributed Systems](https://www.andrew.cmu.edu/course/15-440/)
 - 10718: [Machine Learning in Practice](https://www.cs.cmu.edu/~smithv/10718/) (Audit) 
-
-**Coursework**:
 - 10701: [Introduction to Machine Learning (PhD)](https://www.cs.cmu.edu/~hchai2/courses/10701/#Schedule)
 - 36700: [Probability and Mathematical Statistics](https://www.stat.cmu.edu/~siva/teaching/700/)
 - 15513: [Introduction to Computer Systems](https://www.cs.cmu.edu/~213/schedule.html)
