@@ -53,8 +53,8 @@ permalink: /academics/schoolstuff/
 
 **CMU 10714: Deep Learning Systems**
 
- See [here](https://github.com/Andrew-Koulogeorge/Needle). Very useful material to understand for any Deep Learning Researcher or Practioner.
+ See [here](https://github.com/Andrew-Koulogeorge/Needle). Very useful material to understand for any DL researcher or practioner. 
 
 **Stanford CS234: Reinforcement Learning**
 
-Completed projects from Stanford Reinforcement Learning [CS234](https://web.stanford.edu/class/cs234/) by watching online lectures and reading the free Sutton & Barto textbook. My code and theoretical analysis can be found [here](https://github.com/Andrew-Koulogeorge/CS234-Reinforcement-Learning).
+Completed projects from Stanford Reinforcement Learning [CS234](https://web.stanford.edu/class/cs234/) by watching online lectures and reading the free Sutton & Barto textbook. My code and theoretical analysis can be found [here](https://github.com/Andrew-Koulogeorge/CS234-Reinforcement-Learning). My motivation for studying this was that RL is used a lot in sota LLM post training and I wanted to at least know the basics 
