@@ -9,6 +9,8 @@ redirect_from:
 
 📚 I am a first-year Master in Computer Science student at Carnegie Mellon University. I am focusing my study at Carnegie Mellon on Machine Learning.
 
+🔬 I am fortunate to be advised by Virginia Smith at Carnegie Mellon, where my current research is focused on efficient inference for Multi-Modal Large Language Models
+
 📱 This summer, I am interning at [AppLovin](https://www.applovin.com) in Palo Alto working on AXON
 
 💼 Last summer, I worked as an Applied Scientist Intern at [harpin AI](https://harpin.ai) where I applied Neural Networks and Text Embedding Models to improve the companies core identity profile similarity model. I was very fortunate to be mentored by [Max De Jong](https://www.linkedin.com/in/maxwelldejong/) and [Wenzhong Zhao](https://www.linkedin.com/in/wenzhong-zhao-780a115/).
@@ -19,7 +21,7 @@ redirect_from:
 
 
 ### Other Stuff
-I did a stint in Investment Banking at [Moelis & Company](https://www.moelis.com) during my junior summer of undergrad. The people and culture at Moelis were fantastic but the work wasn't for me
+I started as an econ major and I did a stint in Investment Banking at [Moelis & Company](https://www.moelis.com) during my junior summer of undergrad. The people and culture at Moelis were fantastic but the work wasn't for me
 
 "Study fundamental topics that have a long shelf life" ~ [Yann LeCun](https://x.com/ylecun/status/1849116664568373384)
 
