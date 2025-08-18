@@ -7,11 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-📚 I am a first-year Master in Computer Science student at Carnegie Mellon University. I am focusing my study at Carnegie Mellon on Machine Learning.
+📚 I am a second-year Master in Computer Science student at Carnegie Mellon University. I am focusing my study at Carnegie Mellon on Machine Learning.
 
-🔬 I am fortunate to be advised by Virginia Smith at Carnegie Mellon, where my current research is focused on efficient inference for Multi-Modal Large Language Models
+🔬 I am fortunate to be advised by Virginia Smith at Carnegie Mellon, where my current research is focused on efficient inference for Multi-Modal Large Language Models.
 
-📱 This summer, I am interning at [AppLovin](https://www.applovin.com) in Palo Alto working on AXON
+📱 This summer, I interned at [AppLovin](https://www.applovin.com) in Palo Alto where I trained Neural Networks for impression bid prediction.
 
 💼 Last summer, I worked as an Applied Scientist Intern at [harpin AI](https://harpin.ai) where I applied Neural Networks and Text Embedding Models to improve the companies core identity profile similarity model. I was very fortunate to be mentored by [Max De Jong](https://www.linkedin.com/in/maxwelldejong/) and [Wenzhong Zhao](https://www.linkedin.com/in/wenzhong-zhao-780a115/).
 
