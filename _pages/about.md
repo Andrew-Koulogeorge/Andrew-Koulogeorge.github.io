@@ -11,7 +11,7 @@ redirect_from:
 
 📌 This fall, I will be a Machine Learning Engineering Intern at Pinterest in the Advanced Technology Group (ATG).
 
-🔬 I am fortunate to be advised by Virginia Smith at Carnegie Mellon, where my current research is focused on efficient inference for Multi-Modal Large Language Models.
+🔬 I am fortunate to be advised by Virginia Smith at Carnegie Mellon, where my current research is focused on efficient inference for Large Language Models.
 
 📱 This summer, I interned at [AppLovin](https://www.applovin.com) in Palo Alto where I trained Neural Networks for impression bid prediction.
 
