@@ -9,15 +9,13 @@ redirect_from:
 
 📚 I am a second-year Master in Computer Science student at Carnegie Mellon University. I am focusing my study at Carnegie Mellon on Machine Learning.
 
-📌 This fall, I will be a Machine Learning Engineering Intern at Pinterest in the Advanced Technology Group (ATG).
-
-🔬 I am fortunate to be advised by Virginia Smith at Carnegie Mellon, where my current research investigates Attention Sinks and their application to efficient inference for Large Language Models.
+📌 This fall, I was a Machine Learning Engineering Intern at Pinterest in the Advanced Technology Group (ATG) working on Pre-training & Efficient Fine-tuning for Pinterest's Foundation Model.
 
 📱 This summer, I interned at [AppLovin](https://www.applovin.com) in Palo Alto where I trained Neural Networks for impression bid prediction.
 
-🪪 Last summer, I worked as an Applied Scientist Intern at [harpin AI](https://harpin.ai) where I applied Neural Networks and Text Embedding Models to improve the companies core identity profile similarity model. I was very fortunate to be mentored by [Max De Jong](https://www.linkedin.com/in/maxwelldejong/) and [Wenzhong Zhao](https://www.linkedin.com/in/wenzhong-zhao-780a115/).
+🪪 I also worked as an Applied Scientist Intern at [harpin AI](https://harpin.ai) where I applied Neural Networks and Text Embedding Models to improve the companies core identity profile similarity model.
 
-🌲 I graduated my undergrad from Dartmouth College Summa Cum Laude with a major in math and minor in cs
+🌲 I graduated my undergrad from Dartmouth College Summa Cum Laude in mathethmatics
 
 🔬 While at Dartmouth, I worked as a Machine Learning Researcher at the [Minds, Machines and Society Group](https://www.cs.dartmouth.edu/~soroush/) where my work focused on improving interpretability and preventing bias in Large Language Models. I was lucky to have two excellent advisors in [Soroush Vosoughi](https://scholar.google.com/citations?user=45DAXkwAAAAJ&hl=en) and [Yaoqing Yang](https://sites.google.com/site/yangyaoqingcmu/)!
 
