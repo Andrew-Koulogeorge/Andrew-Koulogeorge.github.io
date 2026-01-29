@@ -19,7 +19,7 @@ permalink: /academics/schoolstuff/
 - 10701: [Introduction to Machine Learning](https://www.cs.cmu.edu/~hchai2/courses/10701/#Schedule)
 - 10718: [Machine Learning in Practice](https://www.cs.cmu.edu/~smithv/10718/) (Audit)
 
-## Dartmouth College (BA in Math & Computer Science)
+## Dartmouth College (BA in Math)
 
 **GPA**: 3.98
 
