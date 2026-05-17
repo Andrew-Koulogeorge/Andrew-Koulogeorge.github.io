@@ -23,3 +23,9 @@ h3 {
 li {
   margin-bottom: 8px;
 }
+
+header img {
+  width: 150px;
+  height: auto;
+  display: block;
+}
