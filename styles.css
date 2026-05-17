@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+body {
+  max-width: 650px;
+  margin: 40px auto;
+  padding: 0 10px;
+  font: 14px/1.5 et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
+  color: #444;
+}
+
+a {
+  font-weight: bold;
+  color: #750014;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3 {
+  line-height: 1.2;
+}
+
+li {
+  margin-bottom: 8px;
+}
